@@ -11,7 +11,7 @@ const Routes = () => {
       <Router>
         <ScrollTopBehaviour />
         <Switch>
-          <Route exact path="/JPL" component={HomeDarkParticles} />
+          <Route exact path="/" component={HomeDarkParticles} />
         </Switch>
       </Router>
     </>

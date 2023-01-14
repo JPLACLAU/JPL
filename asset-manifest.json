@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JPL/static/css/main.2e45e288.chunk.css",
+    "main.js": "/JPL/static/js/main.dba52e97.chunk.js",
+    "runtime-main.js": "/JPL/static/js/runtime-main.e66e3f37.js",
+    "static/css/2.bf2dda17.chunk.css": "/JPL/static/css/2.bf2dda17.chunk.css",
+    "static/js/2.001e184b.chunk.js": "/JPL/static/js/2.001e184b.chunk.js",
+    "static/js/3.c176c94f.chunk.js": "/JPL/static/js/3.c176c94f.chunk.js",
+    "static/js/4.adb56230.chunk.js": "/JPL/static/js/4.adb56230.chunk.js",
+    "index.html": "/JPL/index.html",
+    "static/js/2.001e184b.chunk.js.LICENSE.txt": "/JPL/static/js/2.001e184b.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/JPL/static/media/et-line.d59b2385.woff",
+    "static/media/jplAvatar.2196cc5b.svg": "/JPL/static/media/jplAvatar.2196cc5b.svg",
+    "static/media/slick-theme.css": "/JPL/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66e3f37.js",
+    "static/css/2.bf2dda17.chunk.css",
+    "static/js/2.001e184b.chunk.js",
+    "static/css/main.2e45e288.chunk.css",
+    "static/js/main.dba52e97.chunk.js"
+  ]
+}

@@ -12,15 +12,15 @@ const NotFound = () => {
           <div className="row justify-content-center full-screen align-items-center">
             <div className="col-lg-8 text-center">
               <div className="inner">
-                <h1 className="display-3 white-color m-15px-b">
-                  404 - Page Not Found..
+                <h1 className="display-7 white-color m-15px-b">
+                  This site is a work in progress.
                 </h1>
-                <p className="h4">
-                  Whoops, it looks like the page you request wasn't found.
-                </p>
+                <p className="h4">Stuff can break.</p>
+                <p className="h4">I understand and agree.</p>
+
                 <div className="btn-bar mt-4">
                   <Link className="px-btn px-btn-white" to="/">
-                    BACK TO HOME
+                    GO TO HOME
                   </Link>
                   {/* End purchase_button */}
                 </div>
